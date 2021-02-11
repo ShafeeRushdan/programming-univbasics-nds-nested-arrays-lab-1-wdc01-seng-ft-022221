@@ -41,7 +41,7 @@ end
 
 def matrix_lookup(matrix, row, column)
   
-  matrix_lookup[0][0]
+  assembled_matrix[0][0]
   
   # Given any matrix (array of arrays), a row index and a column index, 
   # Return the matrix's content at that row and and column
